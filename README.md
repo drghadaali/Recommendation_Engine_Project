@@ -1,6 +1,5 @@
 # Recommendation_Engine_Project
 
-# Content Recommendation Engine
 ### Pitching a Recommendation Engine Using the Data Science Process
 
 # Content Recommendation Engine
