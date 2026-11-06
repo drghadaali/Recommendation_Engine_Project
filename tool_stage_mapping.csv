@@ -1,0 +1,12 @@
+Stage,Tool,Function
+Business Understanding,Excel,Organize stakeholder requirements and baseline business measures.
+Data Collection,SQL,Extract historical viewing records from source tables.
+Data Preparation,SQL,Check duplicate records and standardize fields for a consistent dataset.
+Data Preparation,Python,"Inspect missing values, inconsistent entries, and unusual values or outliers."
+Exploratory Data Analysis (EDA),Python,"Explore viewing duration, ratings, and genre patterns across users."
+Exploratory Data Analysis (EDA),Excel,Create summaries and pivot tables to review data patterns.
+Model Development,Python,Build and compare recommendation models using viewing behavior and ratings.
+Evaluation,Python,Test recommendation relevance against agreed evaluation measures.
+Evaluation,Excel,Summarize model results and compare them with business targets.
+Deployment and Monitoring,SQL,Provide refreshed viewing records for the operational recommendation pipeline.
+Deployment and Monitoring,Tableau,Visualize recommendation performance and business KPIs over time.
